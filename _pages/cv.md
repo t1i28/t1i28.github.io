@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2023: Firmware Engineering Intern
+  * Amphenol
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Lei Huang
 
 * Fall 2015: Research Assistant
   * Github University
