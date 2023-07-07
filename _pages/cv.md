@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, Johns Hopkins University, 2020 - 2024
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[//]: # (* M.S. in Jekyll, GitHub University, 2014)
+[//]: # (* Ph.D in Version Control Theory, GitHub University, 2018 (expected))
 
 Work experience
 ======
