@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-dsf-ca
 venue: "Johns Hopkins University, Department of Electrical and Computer Engineering"
-date: 2022-Spring
+date: 2022-02-01
 location: "Baltimore, MD"
 ---
 
