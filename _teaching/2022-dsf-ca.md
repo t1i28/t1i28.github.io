@@ -3,7 +3,7 @@ title: "Course Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-dsf-ca
-venue: "University 1, Department"
+venue: "Johns Hopkins University, Department of Electrical and Computer Engineering"
 date: 2022-Spring
 location: "Baltimore, MD"
 ---
