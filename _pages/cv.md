@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, Johns Hopkins University, 2020 - Present
-  * Cumulative GPA: 3.84
 
 Research Interest
 ======
@@ -67,7 +66,7 @@ Work Experience
 
 Skills
 ======
-* Programming Languages and Technical Tools: Python, Java, C++, C#, MATLAB, VHDL, R, KiCAD, Cadence, LTSpice, PyTorch, Scikit-Learn, Numpy, Pandas, SLURM, Bash, LATEX
+* Programming Languages and Technical Tools: Python, Java, C++, C#, MATLAB, VHDL, R, KiCAD, Cadence, LTSpice, PyTorch, Scikit-Learn, Numpy, Pandas, SLURM, Bash, LaTeX
 * Communication: English, Mandarin
 
 Honors/Awards
@@ -75,7 +74,3 @@ Honors/Awards
 * Upsilon Pi Epsilon (International Honor Society for the Computing and Information Disciplines)
 * Best GT Athletics Hack at Hacklytics
 * Dean’s List (GPA above 3.5/4 for 6/6 semesters)
-
-<!-- Service and leadership -->
-======
-* Currently signed in to 43 different slack teams
