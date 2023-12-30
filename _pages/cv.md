@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering and Computer Science, Johns Hopkins University, 2020 - Present
-  * Cumulative GPA: 3.83
+  * Cumulative GPA: 3.84
 
 Research Interest
 ======
