@@ -41,7 +41,7 @@ Research Experience
 
 Publications
 ======
-* Yin J. Zhang Y., Li T., Yuille A. “Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.” Submitted to CVPR 2024. *Equal Contribution.
+* Yin J., Li T.\*, Zhang Y.\*, Yuille A. “Uncalibrated Multi-view Multi-Human 3D Tracking and Reconstruction.” Submitted to ECCV 2024. *Equal Contribution.
 * Aboumerhi K., Li T., Li J., Etienne-Cummings R. “GazeFlow - A Human-subject Gaze Fixation Ground-truth Dataset for Event-based Visual Saliency Algorithms.” Manuscript in preparation.
 
 Hardware Projects
