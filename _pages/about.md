@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at Johns Hopkins University majoring in Electrical Engineering and Computer Science.
+I am a senior at Johns Hopkins University majoring in Electrical Engineering and Computer Science. My research interests lie in Hardware Acceleration for Machine Learning and Machine Learning for CAD/EDA.
 
 <!--A data-driven personal website
 ======
