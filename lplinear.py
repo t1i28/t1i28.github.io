@@ -12,6 +12,5 @@ hatW.t()
 def backward(ctx, grad_output):
   hatWq, z, s = ctx.saved_tensors # we recompute hatW
   hatW = dequantize(hatWq, z, s)
-  grad_input = grad_output @ hatW # here hatW can be
-deallocated
+  grad_input = grad_output @ hatW # here hatW can be deallocated
   return grad_input, None, None, None
